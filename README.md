@@ -1,8 +1,9 @@
 
 ---
+<img width="1146" height="570" alt="Pulsar CN" src="https://github.com/user-attachments/assets/5df25093-08ba-4587-b572-dff885e72374" />
+
 
 # Pulsar
-[![License](https://img.shields.io/github/license/BruceLi20110501/Pulsar_RAT.svg)](LICENSE)
 ![.NET Framework](https://img.shields.io/badge/.NET_Framework-4.7.2+-512BD4?logo=.net)
 ![Windows](https://img.shields.io/badge/OS-Windows-0078D6?logo=windows)
 
